@@ -95,14 +95,14 @@ A **data-driven web platform** built to help SMU students find suitable off-camp
 
 ---
 
-### 📄 **VBA GUI (Excel)**  
+### 📄 [VBA GUI (Excel)](https://github.com/kobe-afk/VBA-GUI)
 - Built VBA scripts to **automatically copy and generate processes**
 - Eliminated repetitive manual Excel work  
 - ⏱️ **99% time saved** (from 1–2 days → 10–15 minutes)
 
 ---
 
-### 🖼️ **PDF Image Extractor Script**  
+### 🖼️ [PDF Image Extractor Script](https://github.com/kobe-afk/PDF-Image-Extractor)  
 - Processed images from PDF files using Python  
 - Extracted:
   - Top view images  
@@ -115,7 +115,7 @@ A **data-driven web platform** built to help SMU students find suitable off-camp
 
 ---
 
-### 🧪 **Test Reject GUI**  
+### 🧪 [Test Reject GUI](https://github.com/kobe-afk/Test-Reject-GUI)  
 - Compared **serial numbers** from:
   - 2DBC files  
   - Mphase files  
