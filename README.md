@@ -116,9 +116,7 @@ A **data-driven web platform** built to help SMU students find suitable off-camp
 ---
 
 ### 🧪 [Test Reject GUI](https://github.com/kobe-afk/Test-Reject-GUI)  
-- Compared **serial numbers** from:
-  - 2DBC files  
-  - Mphase files  
+- Compared **serial numbers** from files:
 - Displayed:
   - Bin numbers  
   - Units not found  
