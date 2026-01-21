@@ -75,7 +75,7 @@ A **data-driven web platform** built to help SMU students find suitable off-camp
 
 ---
 
-### 📈 [**MTF GUI (Python-based GUI Application)**]  (https://github.com/kobe-afk/Modular-Transfer-Function-GUI)
+### 📈 [MTF GUI (Python-based GUI Application)](https://github.com/kobe-afk/Modular-Transfer-Function-GUI)
 
 **Objective**  
 - Create a GUI to present **MTF data and curves** for all lenses in a wafer  
