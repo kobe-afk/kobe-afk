@@ -22,7 +22,6 @@ Through my academic projects and hands-on experiences, I have developed a strong
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vba/vba-original.svg" width="40" />
 </p>
 
 ---
@@ -47,7 +46,7 @@ Through my academic projects and hands-on experiences, I have developed a strong
 ### 📁 Data & File Processing
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/doc/source/_static/pandas.svg" width="60" />
 </p>
 
 ---
@@ -55,7 +54,6 @@ Through my academic projects and hands-on experiences, I have developed a strong
 ### 🛠️ Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" />
 </p>
 
 
