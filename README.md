@@ -74,7 +74,7 @@ A **data-driven web platform** built to help SMU students find suitable off-camp
 - APIs: Google Maps, Google Places, PropertyGuru, Contentful, Unsplash, Currency Exchange, Landbot
 
 
-#### 📈 **MTF GUI (Python-based GUI Application)**  
+### 📈 **MTF GUI (Python-based GUI Application)**  
 
 **Objective**  
 - Create a GUI to present **MTF data and curves** for all lenses in a wafer  
@@ -94,14 +94,14 @@ A **data-driven web platform** built to help SMU students find suitable off-camp
 
 ---
 
-#### 📄 **Control Plan Automation (Excel)**  
+### 📄 **VBA GUI (Excel)**  
 - Built VBA scripts to **automatically copy and generate processes**
 - Eliminated repetitive manual Excel work  
 - ⏱️ **99% time saved** (from 1–2 days → 10–15 minutes)
 
 ---
 
-#### 🖼️ **PDF Image Processing Script**  
+### 🖼️ **PDF Image Extractor Script**  
 - Processed images from PDF files using Python  
 - Extracted:
   - Top view images  
@@ -114,7 +114,7 @@ A **data-driven web platform** built to help SMU students find suitable off-camp
 
 ---
 
-#### 🧪 **Test Reject GUI**  
+### 🧪 **Test Reject GUI**  
 - Compared **serial numbers** from:
   - 2DBC files  
   - Mphase files  
@@ -127,7 +127,7 @@ A **data-driven web platform** built to help SMU students find suitable off-camp
 
 #### 📊 **Angel Wings Form Error Plot**  
 - Created Python scripts to visualize **form error patterns**
-- Enabled faster defect identification through plotting
+- Enabled faster defect identification through plotting of Angel Wings Graphs
 
 ---
 
