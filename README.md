@@ -48,7 +48,7 @@ Through my academic projects and hands-on experiences, I have developed a strong
 </p>
 
 
-## ✅ Completed Projects  
+# ✅ Completed Projects  
 
 ### 🏠 SMU Housing & Roommate Matching Platform  
 
@@ -73,8 +73,9 @@ A **data-driven web platform** built to help SMU students find suitable off-camp
 - Analytics: Apache ECharts  
 - APIs: Google Maps, Google Places, PropertyGuru, Contentful, Unsplash, Currency Exchange, Landbot
 
+---
 
-### 📈 **MTF GUI (Python-based GUI Application)**  
+### 📈 [**MTF GUI (Python-based GUI Application)**]  (https://github.com/kobe-afk/Modular-Transfer-Function-GUI)
 
 **Objective**  
 - Create a GUI to present **MTF data and curves** for all lenses in a wafer  
@@ -125,7 +126,7 @@ A **data-driven web platform** built to help SMU students find suitable off-camp
 
 ---
 
-#### 📊 **Angel Wings Form Error Plot**  
+### 📊 **Angel Wings Form Error Plot**  
 - Created Python scripts to visualize **form error patterns**
 - Enabled faster defect identification through plotting of Angel Wings Graphs
 
