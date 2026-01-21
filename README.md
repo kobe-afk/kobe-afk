@@ -13,30 +13,64 @@ Through my academic projects and hands-on experiences, I have developed a strong
 
 ---
 
-## 🧰 Language and Tools  
+## 🧰 Language and Tools
 
 ### 💻 Programming & Scripting
 - 🐍 Python  
-- 📊 VBA (Legacy system migration)
+- 📊 VBA (Legacy system migration)  
+- 🟨 JavaScript  
+- 🟩 Vue.js
 
-### 🖥️ GUI & Libraries
+---
+
+### 🖥️ GUI & Frontend Frameworks
 - 🪟 Python Tkinter  
+- 🌐 Vue.js  
+- 🎨 Bootstrap 
+
+---
+
+### 🗄️ Data, Backend & Storage
+- 🔥 Firebase Firestore  
+---
 
 ### 📁 Data & File Processing
 - 📄 PDF Processing  
 - 🖼️ Image Processing  
 - 📊 Excel Automation  
 
+
 ### 🛠️ Tools
 - 📝 VS Code  
-- 📈 Excel  
-- 🧪 Zygo Measurement Files  
+- 📊 Excel  
+- 🔄 Google Apps Script  
 
----
 
 ## ✅ Completed Projects  
 
-### ⭐ Main Project  
+### 🏠 SMU Housing & Roommate Matching Platform  
+
+🔗 Website: https://smu-housing-app-8288f.web.app/  
+
+A **data-driven web platform** built to help SMU students find suitable off-campus housing and compatible roommates, addressing the lack of on-campus accommodation.
+
+**Key Highlights**
+- 🏡 Recommends nearby housing based on **budget, location, and amenities**
+- 🤝 Matches roommates using a **lifestyle-based weighted matching algorithm**
+- ❤️ Wishlist system with **real-time notifications**
+- ⭐ Property reviews, ratings, and reporting (CRUD)
+- 📊 Interactive dashboards using **Apache ECharts** to visualise user demographics
+- 🗺️ Integrated **Google Maps & Places APIs** for location and amenities
+- 🤖 Chatbot support using **Landbot API**
+- 🔐 Secure authentication with password recovery, username & avatar generation
+- 🔄 Automated weekly Firebase property updates via **Google Apps Script**
+
+**Tech Stack**
+- Frontend: Vue.js, Bootstrap 5  
+- Backend & Hosting: Firebase Firestore, Firebase Hosting  
+- Analytics: Apache ECharts  
+- APIs: Google Maps, Google Places, PropertyGuru, Contentful, Unsplash, Currency Exchange, Landbot
+
 
 #### 📈 **MTF GUI (Python-based GUI Application)**  
 
@@ -57,8 +91,6 @@ Through my academic projects and hands-on experiences, I have developed a strong
 - Reduced dependency on fragile VBA code
 
 ---
-
-### 🔧 Supplementary Projects  
 
 #### 📄 **Control Plan Automation (Excel)**  
 - Built VBA scripts to **automatically copy and generate processes**
