@@ -16,34 +16,47 @@ Through my academic projects and hands-on experiences, I have developed a strong
 ## 🧰 Language and Tools
 
 ### 💻 Programming & Scripting
-- 🐍 Python  
-- 📊 VBA (Legacy system migration)  
-- 🟨 JavaScript  
-- 🟩 Vue.js
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vba/vba-original.svg" width="40" />
+</p>
 
 ---
 
 ### 🖥️ GUI & Frontend Frameworks
-- 🪟 Python Tkinter  
-- 🌐 Vue.js  
-- 🎨 Bootstrap 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tkinter_logo.png" width="40" />
+</p>
 
 ---
 
 ### 🗄️ Data, Backend & Storage
-- 🔥 Firebase Firestore  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</p>
+
 ---
 
 ### 📁 Data & File Processing
-- 📄 PDF Processing  
-- 🖼️ Image Processing  
-- 📊 Excel Automation  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+</p>
 
+---
 
 ### 🛠️ Tools
-- 📝 VS Code  
-- 📊 Excel  
-- 🔄 Google Apps Script  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" />
+</p>
 
 
 ## ✅ Completed Projects  
