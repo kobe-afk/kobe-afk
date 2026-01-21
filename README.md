@@ -30,7 +30,6 @@ Through my academic projects and hands-on experiences, I have developed a strong
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tkinter_logo.png" width="40" />
 </p>
 
 ---
@@ -39,14 +38,6 @@ Through my academic projects and hands-on experiences, I have developed a strong
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-</p>
-
----
-
-### 📁 Data & File Processing
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/doc/source/_static/pandas.svg" width="60" />
 </p>
 
 ---
